@@ -1,4 +1,9 @@
-# SPEEDCHECK BABA 
+
+https://speedcheck-baba.netlify.app/#
+link for app above
+
+
+ SPEEDCHECK BABA 
 
 A modern, client-side internet speed test application built with React and Vite. Test your connection's download and upload speeds with real-time visualization and accurate measurements.
 
